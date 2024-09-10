@@ -1,0 +1,5 @@
+7130904674:AAEIJdjtG3i-hK9Lcftf9LFAckY3N-Rmfog
+
+https://api.telegram.org/bot7130904674:AAEIJdjtG3i-hK9Lcftf9LFAckY3N-Rmfog/getUpdates
+
+-1002185168317
